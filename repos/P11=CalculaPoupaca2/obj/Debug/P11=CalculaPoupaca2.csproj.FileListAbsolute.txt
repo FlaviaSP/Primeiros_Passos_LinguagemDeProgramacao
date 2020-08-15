@@ -1,0 +1,6 @@
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\bin\Debug\P11=CalculaPoupaca2.exe.config
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\bin\Debug\P11=CalculaPoupaca2.exe
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\bin\Debug\P11=CalculaPoupaca2.pdb
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\obj\Debug\P11=CalculaPoupaca2.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\obj\Debug\P11=CalculaPoupaca2.exe
+C:\Users\flavi\source\repos\P11=CalculaPoupaca2\obj\Debug\P11=CalculaPoupaca2.pdb

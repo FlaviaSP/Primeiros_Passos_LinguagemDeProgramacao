@@ -1,0 +1,7 @@
+C:\Users\flavi\source\repos\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\flavi\source\repos\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\flavi\source\repos\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\flavi\source\repos\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\flavi\source\repos\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

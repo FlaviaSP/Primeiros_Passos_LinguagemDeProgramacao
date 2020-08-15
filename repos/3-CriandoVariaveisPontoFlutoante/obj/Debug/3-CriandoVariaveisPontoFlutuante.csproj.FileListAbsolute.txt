@@ -1,0 +1,6 @@
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\bin\Debug\3-CriandoVariaveisPontoFlutoante.exe.config
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\bin\Debug\3-CriandoVariaveisPontoFlutoante.exe
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\bin\Debug\3-CriandoVariaveisPontoFlutoante.pdb
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\obj\Debug\3-CriandoVariaveisPontoFlutoante.exe
+C:\Users\flavi\source\repos\3-CriandoVariaveisPontoFlutoante\obj\Debug\3-CriandoVariaveisPontoFlutoante.pdb

@@ -1,0 +1,7 @@
+C:\Users\flavi\source\repos\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\flavi\source\repos\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\flavi\source\repos\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\flavi\source\repos\7-Condicionais\obj\Debug\7-Condicionais.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\flavi\source\repos\7-Condicionais\obj\Debug\7-Condicionais.pdb
